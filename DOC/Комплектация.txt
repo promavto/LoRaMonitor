@@ -3,3 +3,6 @@ https://aliexpress.ru/item/1005003797803015.html?spm=a2g0o.order_list.order_list
 
 Модуль LoRa868 RFM95W      RFM95 RFM95W 868 RFM95-868MHz LORA SX1276 Беспроводной модуль приемопередатчика FCC,
 https://aliexpress.ru/item/1005002351331228.html?spm=a2g0o.order_list.order_list_main.4.21efa396LzwCNN&gatewayAdapt=glo2rus&sku_id=12000020236699522
+
+SAMD21 M0-Mini. 32-битный ARM Cortex M0 core. Шпильки распаянные. Совместимость с Arduino Zero, Arduino M0. Форма мини.
+https://aliexpress.ru/item/1005002585114846.html?spm=a2g2w.placeorder.0.0.49bf4aa6vcNI3g&mp=1&_ga=2.153603696.912607916.1 672824592-1614864608.1670255372&sku_id=12000021271636987
